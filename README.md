@@ -25,10 +25,12 @@ This app lets multiple users join a chat room and exchange messages instantly, w
 
 **Backend**
 - Node.js
+- TS
 - Express
 - Socket.IO
 - Chakra-UI
 
 ---
+
 
 
